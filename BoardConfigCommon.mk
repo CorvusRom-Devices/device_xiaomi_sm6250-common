@@ -198,4 +198,4 @@ WIFI_HIDL_FEATURE_DUAL_INTERFACE := true
 WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit proprietary blobs
--include vendor/xiaomi/sm6250-common/BoardConfigVendor.mk
+-include vendor/redmi/sm6250-common/BoardConfigVendor.mk
